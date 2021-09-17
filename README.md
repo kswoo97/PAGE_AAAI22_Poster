@@ -1,5 +1,5 @@
 # PAGE
-Prototype-Based Explanations for Graph Neural Networks by 
+Prototype-Based Explanations for Graph Neural Networks by  
 Yongmin Shin, Sunwoo Kim, Eunbi Yoon, Wonyong Shin.
 
 We proposed a model-level explanation for graph neural networks.
