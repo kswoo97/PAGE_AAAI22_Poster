@@ -1,4 +1,4 @@
 # PAGE
 Prototype-Based Explanations for Graph Neural Networks
 
-![Overview of PAGE](https://github.com/kswoo97/PAGE/blob/main/%5B0917%5Doverall_figure.pdf?raw=true)
+[[0917]overall_figure.pdf](https://github.com/kswoo97/PAGE/files/7181929/0917.overall_figure.pdf)
